@@ -1,2 +1,1 @@
-# My-Projects
-You will find all my code included projects here 
+This is my first uploaded Python code on GitHub. Not a too cool code, but a huge milestone for me :)
